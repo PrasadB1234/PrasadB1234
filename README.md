@@ -27,7 +27,7 @@ I'm a passionate **Full Stack Developer** with over **2 years of experience** sp
 ---
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/prasadbirajdar/)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/prasadbirajdar/)
 - **Email:** birajdarprashant880@gmail.com
 
 ---
