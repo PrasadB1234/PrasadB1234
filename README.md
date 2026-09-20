@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Prasad Birajdar (@PrasadB56)
 
-I'm a passionate **Full Stack Developer** with over **2 years of experience** specializing in building robust web applications using **ReactJS, TypeScript, Redux, Material-UI, PHP, and Laravel**. I love turning complex problems into simple, beautiful, and intuitive solutions.
+I'm a passionate **Full Stack Developer** with over **4 years of experience** specializing in building robust web applications using **ReactJS, TypeScript, NodeJS, Python, Redux, Material-UI, PHP, and Laravel**. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
 ---
 
